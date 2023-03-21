@@ -4,19 +4,3 @@ I'm building my career as a Software Developer, who is passionate about reading 
 
 - 📫 How to reach me: benvxavier@gmail.com or [LinkedIn]().
 - 👯 I’m open to collaborate to learn, share and grow.
-
-<details>
-<summary style="cursor:pointer">
-ola-mundo.c</summary>
-<pre><code class="language-c">
-/* Meu primeiro programa 'Olá, Mundo!' */
-&#32
-#include &lt;stdio.h&gt;
-&#32
-int main() {
-	printf("Olá, Mundo!\n");
-	return 0;
-}
-</code>
-</pre>
-</details>
