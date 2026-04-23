@@ -1,5 +1,7 @@
 
-![Banner Benvindo Xavier](banner.png)
+<div align="center">
+<img src="banner_circle.png" width="70%" />
+</div>
 
 ### Olá, sou o Benvindo Xavier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
