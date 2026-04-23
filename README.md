@@ -11,7 +11,7 @@ Sou desenvolvedor Full-Stack com uma abordagem pragmática — focado em resolve
 
 Acredito que sistemas bem estruturados começam simples e evoluem conforme as necessidades crescem, evitando complexidade desnecessária.
 
-Tenho interesse em desenvolvimento de APIs, arquitetura de software e interfaces web, com foco em boas práticas de desenvolvimento.
+Tenho interesse em **desenvolvimento de APIs**, **arquitetura de software** e **interfaces web**, com foco em boas práticas de desenvolvimento.
 
 🛠️ **Backend**: Python · Java · Flask-RESTX · Spring Boot  
 🌐 **Frontend**: HTML · CSS/SCSS · JavaScript  
