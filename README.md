@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="banner.png" width="70%" />
+<img src="banner.png" width="50%" />
 </div>
 
 <div align="center">
@@ -14,8 +14,9 @@ Acredito que sistemas bem estruturados começam simples e evoluem conforme as ne
 
 Tenho interesse em **desenvolvimento de APIs**, **arquitetura de software** e **interfaces web**, com foco em boas práticas de desenvolvimento.
 
-🛠️ **Backend**: Python · Java · Flask-RESTX · Spring Boot  
-🌐 **Frontend**: HTML · CSS/SCSS · JavaScript  
-🔧 **Ferramentas**: NPM · Git · GitHub  
+🖥️ **Backend**: Python · Java · Flask-RESTX · Spring Boot
+🎨 **Frontend**: HTML · CSS/SCSS · JavaScript
+📦 **Ferramentas**: NPM · Git · GitHub · GitHub Actions
 
 📫 benvxavier@gmail.com · [LinkedIn](https://linkedin.com/in/benvindo-xavier-07935a268) · [Medium](https://medium.com/@benvxavier)
+
