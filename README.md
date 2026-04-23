@@ -3,9 +3,10 @@
 <img src="banner.png" width="70%" />
 </div>
 
-### Olá, sou o Benvindo Xavier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-**Desenvolvedor Full-Stack | Abordagem Pragmática | Leitor & Escritor**
+<div align="center">
+  <h2>Olá, sou o Benvindo Xavier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h2>
+  <p><strong>Desenvolvedor Full-Stack | Abordagem Pragmática | Leitor & Escritor</strong></p>
+</div
 
 Sou desenvolvedor Full-Stack com uma abordagem pragmática — focado em resolver problemas de forma simples, eficiente e escalável.
 
